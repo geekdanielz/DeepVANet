@@ -59,3 +59,6 @@ Arguments for demo.py:
 T., Nijholt, A., Patras, L.: Deap: A database for emotion analysis using physiolog-
 ical signals. IEEE Transactions on Affective Computing 3(1), 18–31 (2012)    
 \[2\] Soleymani, M., Lichtenauer, J., Pun, T., Pantic, M.: A multimodal database for affect recognition and implicit tagging. IEEE Transactions on Affective Computing 3(1), 42–55 (2012)
+
+## Citation
+Zhang Y., Hossain M.Z., Rahman S. (2021) DeepVANet: A Deep End-to-End Network for Multi-modal Emotion Recognition. In: Ardito C. et al. (eds) Human-Computer Interaction – INTERACT 2021. INTERACT 2021. Lecture Notes in Computer Science, vol 12934. Springer, Cham. https://doi.org/10.1007/978-3-030-85613-7_16
